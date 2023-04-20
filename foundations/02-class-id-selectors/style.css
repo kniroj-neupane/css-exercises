@@ -1,0 +1,16 @@
+.pink{
+    background-color: rgb(212, 136, 155);
+    font-family: Verdana, dejaVu sans, sans-serif;
+}
+#blue-div{
+    color: blue;
+    font-size: 36px;
+}
+.pink.cooler{
+    font-size: 24px;
+}
+#green-div{
+    background-color: rgb(69, 243, 16);
+    font-size: 24px;
+    font-weight: bold;
+}
